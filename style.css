@@ -1,0 +1,8 @@
+.container { max-width: 500px; margin-top: 50px; }
+.eye-btn {
+  position: absolute; right: 10px; top: 50%;
+  transform: translateY(-50%);
+  background: none; border: none;
+  cursor: pointer; font-size: 18px;
+}
+.position-relative { position: relative; }
